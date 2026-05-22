@@ -1,5 +1,5 @@
 #include <stdio.h>
-//这是一个简单的加法程序
+//杩欐槸涓�涓畝鍗曠殑鍔犳硶绋嬪簭
 int main() {
     double num1, num2, sum;
     
